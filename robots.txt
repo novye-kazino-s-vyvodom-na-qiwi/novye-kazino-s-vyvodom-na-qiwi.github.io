@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-kazino-s-vyvodom-na-qiwi.github.io
+Sitemap: https://novye-kazino-s-vyvodom-na-qiwi.github.io/sitemap.xml
